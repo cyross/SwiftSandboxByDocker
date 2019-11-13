@@ -1,0 +1,4 @@
+docker/db/data/*
+docker/db/work/*
+docker/swift/work/*
+!.gitignore
